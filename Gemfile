@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
+gem "fog"
 
+gem "figaro"
+
+gem 'carrierwave', '~> 0.11.2'
 
 gem 'devise'
 
